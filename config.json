@@ -1,4 +1,6 @@
 {
+    "play_store_base_url": "https://play.google.com",
+    "play_store_search_url": "https://play.google.com/store/search?q=", 
     "gl":{
         "Australia":  "AU",
         "Canada":  "CA",
@@ -65,7 +67,7 @@
     },
     "collection":{
         "topFree": "topselling_free",
-        "topPaid": "topselling_free",
+        "topPaid": "topselling_paid",
         "topGrossing":"topgrossing"
     }
 }
